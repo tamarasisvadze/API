@@ -1,0 +1,17 @@
+{
+    "id": 47,
+    "country": "Canada",
+    "country_code": "CA",
+    "country_population": 37058856,
+    "province": "Nova Scotia",
+    "last_updated": "2021-05-16T05:34:09.595325Z",
+    "coordinates": {
+        "latitude": "44.682",
+        "longitude": "-63.7443"
+    },
+    "latest": {
+        "confirmed": 4610,
+        "deaths": 72,
+        "recovered": 0
+    }
+}
