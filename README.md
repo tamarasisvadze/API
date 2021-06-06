@@ -1,4 +1,5 @@
 # API
 Python,Json,SQL
 
-chemi proeqti warmoadgens coronaApi-s garchevas da misgan chemtvis saintereso qveynis,canadis monacemebis wamoghebas.xolo shemdeg am monacemebze dayrdnobit shevqmeni monacemta baza.
+i used json module built in function dumps, to serve an information in a file and the last step is that i kept it in a database
+
